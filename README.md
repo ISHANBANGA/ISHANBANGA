@@ -5,8 +5,8 @@
 I build test automation that makes releases faster and safer.
 
 ### What I've done
-- 🧪 Built a **Playwright E2E automation suite** for a government e-services platform (Ontario Public Service), cutting an **~80-min manual regression pass to ~6 min** (19 spec files, 81 checks, Page Object Model)
-- 🔁 Integrated automated runs into **Azure DevOps CI/CD**
+-  Built a **Playwright E2E automation suite** for a government e-services platform (Ontario Public Service), cutting an **~80-min manual regression pass to ~6 min** (19 spec files, 81 checks, Page Object Model)
+-  Integrated automated runs into **Azure DevOps CI/CD**
 - 🏆 Won the **OPS Got Talent** innovation competition (AI Compliance Guard browser extension)
 - 📊 Built an Ontario–US Trade Dashboard at the **OPS × Microsoft hackathon** (Fabric, Python, Power BI)
 
