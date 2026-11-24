@@ -16,8 +16,4 @@ I build test automation that makes releases faster and safer.
 **Web:** React · Next.js · ASP.NET Core  
 **DevOps:** Azure DevOps · GitHub Actions · Docker
 
-### Currently building
-- **AI Interview Coach:** Next.js/TypeScript app that scores interview answers (STAR) and optimizes resumes, fully local
-- **Playwright test framework:** a public, CI-driven test suite (coming soon)
-
 📫 [Portfolio](https://ishanbanga.github.io/Personal-Portfolio) · [LinkedIn](https://www.linkedin.com/in/ishan-b-b96b192ab/)
